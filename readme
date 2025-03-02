@@ -1,0 +1,1 @@
+This is a next js app where the users can create courses according to their needs
